@@ -5,10 +5,4 @@ color:
   lightness: 0.35393020370975137
   saturation: 0.34951451513916254
   rhythmicContrast: 0.6285947957076132
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
 name: theinterpet
