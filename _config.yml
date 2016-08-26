@@ -1,0 +1,14 @@
+layout_spectrum: 0.08163594547659159
+typography_spectrum: 0.9873124568257481
+color:
+  brandStrength: 0.12597012403421104
+  lightness: 0.35393020370975137
+  saturation: 0.34951451513916254
+  rhythmicContrast: 0.6285947957076132
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: theinterpet
